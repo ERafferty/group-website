@@ -75,56 +75,13 @@ a {
   color: rgb(22, 131, 255);
 }
 
-div.contrast {
-  background-color: rgb(128, 0, 64);
-  color: rgb(255,255,255);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  padding-top: 10px;
-}
-
-div.contrast-2 {
-  background-color: rgb(255,255,255);
-  color: rgb(128, 0, 64);
-  position: relative;
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
-
-.contrast-2 img{
-  float: right;
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
-
-div.contrast-3 {
-  background-color: rgb(255, 179, 179);
-  color: rgb(70, 10, 90);
-  position: relative;
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
-
-.contrast-3 img{
-  float: left;
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
-
-div.contrast-4 {
-  background-color: rgb(255, 204, 204);
-  color: rgb(70, 10, 90);
-  position: relative;
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
-
-.contrast-4 img{
-  float: left;
-  padding-top: 20px;
-  padding-bottom: 20px;
+form {
+  width: 70%;
+  margin: 0 5vw 2.5vh 5vw;
+  text-align: justify;
+  font-size: 1em;
+  font-weight: bold;
+	line-height: 1;
 }
 
 .topnav {
