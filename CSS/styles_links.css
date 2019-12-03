@@ -39,16 +39,8 @@ p {
   font-size: 2em;
 }
 
-a:link {
+a {
   color: rgb(22, 131, 255);
-}
-
-a:visited {
-  color: rgb(22, 131, 255);
-}
-
-a:hover {
-  color: rgb(129, 187, 252);
 }
 
 ol {
@@ -151,14 +143,12 @@ input {
   font-family: Trebuchet MS;
 }
 
-input[type=button], input[type=submit], input[type=reset] {
-  background-color: rgb(70, 10, 90);
-  border: none;
+a:link {
   color: white;
-  padding: 16px 32px;
-  margin: 4px 2px;
-  font-family: Trebuchet MS;
-  cursor: pointer;
+}
+
+a:visited {
+  color: white;
 }
 
 select {

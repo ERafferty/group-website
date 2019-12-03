@@ -7,7 +7,7 @@ body {
 
 div {
   min-height: 2vh;
-  width: 100vw;
+  width: 100%;
 }
 
 h1, h2{
@@ -71,8 +71,16 @@ p {
    line-height: 25pt;
 }
 
-a {
+a:link {
   color: rgb(22, 131, 255);
+}
+
+a:visited {
+  color: rgb(22, 131, 255);
+}
+
+a:hover {
+  color: rgb(129, 187, 252);
 }
 
 div.contrast {
