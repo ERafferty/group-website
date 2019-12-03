@@ -19,7 +19,7 @@ h3{
 }
 
 h1 {
-  font-size: 7em;
+  font-size: 5.75em;
 }
 
 h2 {
@@ -140,9 +140,9 @@ div.contrast-4 {
 .topnav a{
 	float:left;
 	text-align: center;
-	padding: 14px 16px;
+	padding: 10px 10px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 14px;
 	color: white;
 }
 
