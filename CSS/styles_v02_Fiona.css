@@ -108,9 +108,9 @@ li:hover {
 .topnav a{
 	float:left;
 	text-align: center;
-	padding: 14px 16px;
+	padding: 10px 10px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 14px;
 	color: white;
 }
 
